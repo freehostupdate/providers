@@ -1,5 +1,15 @@
 [
   {
+    "name": "FreeVPN",
+    "hosts": [
+      "freevpn.pcp.to",
+      "freevpn.popcorn.is",
+      "freevpn.pptp-vpn.com",
+      "freevpn.unblock-popcorn.com",
+      "freevpn.unblock-torrents.com"
+    ]
+  },
+  {
     "name": "HideMyAss.com",
     "hosts": [
       "hma-nl.popcorn.is",

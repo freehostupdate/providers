@@ -1,0 +1,26 @@
+[
+  {
+    "name": "HideMyAss.com",
+    "hosts": [
+      "hma-nl.popcorn.is",
+      "hma-ca.popcorn.is",
+      "hma-sg.popcorn.is"
+    ]
+  },
+  {
+    "name": "Hide.me",
+    "hosts": [
+      "hide-nl.popcorn.is",
+      "hide-ca.popcorn.is",
+      "hide-sg.popcorn.is"
+    ]
+  },
+  {
+    "name": "PrivateInternetAccess.com",
+    "hosts": [
+      "pia-nl.popcorn.is",
+      "pia-ca.popcorn.is",
+      "pia-sg.popcorn.is"
+    ]
+  }
+]
